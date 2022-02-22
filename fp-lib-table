@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TL084CDT)(type KiCad)(uri ${KISYSMOD}/TL084C/TL084CDT)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri "C:/Users/bella/Downloads/library loader/MS23BNW03/SamacSys_Parts.pretty")(options "")(descr ""))
+)
