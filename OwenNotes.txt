@@ -1,3 +1,27 @@
+2/21/2022
 8 Channels for schematic
 work out how to do channels with respect to ground
 
+2/22/2022
+Asked Professor which area would be good to observe next,
+he suggested visual or auditory cortex (probably primary)
+as it can be easily observed with respect to something like
+a pulse train of light or a tone. Visual is probably easier
+to locate. Hopefully the animal sciences people won't take
+issue :)
+
+2/23/2022
+Did a basic copy and paste of the amplifier setup. Trying
+to understand how a homebrew EEG is made.
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/cwm55/cwm55_mj294/
+It seems the youtube channel "Bruce Land" is a Cornell ECE
+prof who teaches an embedded/DSP/controls class. He posts
+videos of project demos for his class. The videos have 
+links to project pages in the descriptions. Some are EEG
+projects.
+There's also a blog for some guy named Chip Stein. 
+He did some EEG and other neuro stuff, but his writing is
+a bit sparse. Includes diagrams though.
+The current iteration uses the TL084 Op-amp.
+https://www.ti.com/product/TL084
+--- Datasheet is in folder now.
