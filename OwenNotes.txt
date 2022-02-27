@@ -25,3 +25,12 @@ a bit sparse. Includes diagrams though.
 The current iteration uses the TL084 Op-amp.
 https://www.ti.com/product/TL084
 --- Datasheet is in folder now.
+
+2/26/2022
+Found notes for KiCAD, they actually seem readable
+https://docs.kicad.org/
+Making heirarchical structure for schematic because
+Op-amp setup will repeat. Using tl081 op-amp instead
+of tl084 so each can be individual in heirarchical 
+sheet. Could be reconfigured to make sub-sheets with
+tl084. Heirarchical sheets need to be completed.
