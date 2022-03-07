@@ -34,3 +34,9 @@ Op-amp setup will repeat. Using tl081 op-amp instead
 of tl084 so each can be individual in heirarchical 
 sheet. Could be reconfigured to make sub-sheets with
 tl084. Heirarchical sheets need to be completed.
+
+3/6/2022
+Added analog ground and bypass capacitors to 
+schematic for the device. Need to add and 
+manage analog ground in top-level. Need to 
+make LTspice simulation of circuit as well.

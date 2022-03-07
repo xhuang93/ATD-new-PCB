@@ -293,7 +293,7 @@ Wire Wire Line
 	2700 6250 3450 6250
 $Comp
 L power:GNDS #PWR?
-U 1 1 6227322D
+U 1 1 62257E77
 P 2700 6450
 F 0 "#PWR?" H 2700 6200 50  0001 C CNN
 F 1 "GNDS" H 2705 6277 50  0000 C CNN
@@ -307,7 +307,7 @@ Wire Wire Line
 	4350 4850 4350 5250
 $Comp
 L Device:C C?
-U 1 1 62273235
+U 1 1 62257E78
 P 3850 4850
 F 0 "C?" V 3598 4850 50  0000 C CNN
 F 1 "820p" V 3689 4850 50  0000 C CNN
@@ -318,7 +318,7 @@ F 3 "https://www.digikey.com/en/products/detail/panasonic-electronic-components/
 $EndComp
 $Comp
 L Device:R R?
-U 1 1 6227323B
+U 1 1 62257E79
 P 3850 5250
 F 0 "R?" V 3643 5250 50  0000 C CNN
 F 1 "2.49M" V 3734 5250 50  0000 C CNN
@@ -333,7 +333,7 @@ Wire Wire Line
 	1700 5400 1700 5600
 $Comp
 L Device:R_POT_TRIM RV?
-U 1 1 62273243
+U 1 1 62257E7A
 P 1700 5250
 F 0 "RV?" V 1493 5250 50  0000 C CNN
 F 1 "500k" V 1584 5250 50  0000 C CNN
@@ -344,7 +344,7 @@ F 3 "https://www.digikey.com/en/products/detail/nte-electronics-inc/502-0420/116
 $EndComp
 $Comp
 L Device:R R?
-U 1 1 62273249
+U 1 1 62257E7B
 P 2300 5250
 F 0 "R?" V 2093 5250 50  0000 C CNN
 F 1 "10k" V 2184 5250 50  0000 C CNN
@@ -355,7 +355,7 @@ F 3 "https://www.digikey.com/en/products/detail/vishay-foil-resistors-division-o
 $EndComp
 $Comp
 L Device:C C?
-U 1 1 6227324F
+U 1 1 62257E7C
 P 2850 5250
 F 0 "C?" V 2598 5250 50  0000 C CNN
 F 1 "260u" V 2689 5250 50  0000 C CNN
@@ -373,7 +373,7 @@ NoConn ~ 3750 6450
 NoConn ~ 3850 6450
 $Comp
 L Amplifier_Operational:TL081 U?
-U 1 1 6227325A
+U 1 1 62257E7D
 P 3750 6150
 F 0 "U?" H 4094 6196 50  0000 L CNN
 F 1 "TL081" H 4094 6105 50  0000 L CNN
@@ -399,7 +399,7 @@ Wire Wire Line
 Connection ~ 4350 6150
 $Comp
 L power:VD #PWR?
-U 1 1 62273268
+U 1 1 62257E7E
 P 3650 6650
 F 0 "#PWR?" H 3650 6500 50  0001 C CNN
 F 1 "VD" H 3665 6823 50  0000 C CNN
@@ -410,7 +410,7 @@ F 3 "" H 3650 6650 50  0001 C CNN
 $EndComp
 $Comp
 L power:VS #PWR?
-U 1 1 6227326E
+U 1 1 62257E7F
 P 3650 5650
 F 0 "#PWR?" H 3450 5500 50  0001 C CNN
 F 1 "VS" H 3665 5823 50  0000 C CNN
@@ -425,7 +425,7 @@ Wire Wire Line
 	4350 6150 4900 6150
 $Comp
 L power:VS #PWR?
-U 1 1 62273276
+U 1 1 62257E80
 P 1400 6000
 F 0 "#PWR?" H 1200 5850 50  0001 C CNN
 F 1 "VS" H 1415 6173 50  0000 C CNN
@@ -436,7 +436,7 @@ F 3 "" H 1400 6000 50  0001 C CNN
 $EndComp
 $Comp
 L power:VD #PWR?
-U 1 1 6227327C
+U 1 1 62257E81
 P 1400 6700
 F 0 "#PWR?" H 1400 6550 50  0001 C CNN
 F 1 "VD" H 1415 6873 50  0000 C CNN
@@ -447,7 +447,7 @@ F 3 "" H 1400 6700 50  0001 C CNN
 $EndComp
 $Comp
 L Device:C C?
-U 1 1 62273282
+U 1 1 62257E82
 P 1400 6350
 F 0 "C?" H 1515 6396 50  0000 L CNN
 F 1 "C" H 1515 6305 50  0000 L CNN
